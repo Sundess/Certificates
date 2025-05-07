@@ -1,2 +1,2 @@
-# Certificates-
-Offline Certificates of mine.
+# Certificates
+Offline Certificates
